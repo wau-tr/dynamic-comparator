@@ -1,0 +1,13 @@
+{
+    "name": "wau/dynamic-comparator",
+    "description": "This component provides the functionality to compare two values by given comparison operator.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wau",
+            "email": "dima.yerashkin@gmail.com"
+        }
+    ],
+    "require": {}
+}
