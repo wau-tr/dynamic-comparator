@@ -9,5 +9,10 @@
             "email": "dima.yerashkin@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wau\\DynamicComparator\\Traits\\": "src\\Traits"
+        }
+    }
 }
